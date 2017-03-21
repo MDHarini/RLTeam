@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Team</string>
+    <string name="action_insert_dummy_data">New entry</string>
+    <string name="action_delete_all_entries">Delete all records</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_gender">Gender</string>
+    <string name="action_save">Save</string>
+    <!-- Label for dropdown menu option if the user is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the user is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+    <string name="gender_select">Select</string>
+    <string name="category_name">User</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_username">User ID</string>
+    <string name="category_Birthday">Birthday</string>
+    <string name="hint_birthday">DDMMYYYY</string>
+    <string name="editor_activity_title_new_user">Add New User</string>
+    <!-- Toast message in editor when new user has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_user_successful">User saved</string>
+
+    <!-- Toast message in editor when new user has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_user_failed">Error with saving User</string>
+    <string name="empty_view_title_text">Feeling lonely</string>
+    <string name="empty_view_subtitle_text">Get started by adding a User</string>
+    <string name="editor_Newuser_title">Add New User</string>
+    <string name="editor_update_title">Edit User</string>
+    <string name="editor_update_user_failed">User update Failed</string>
+    <string name="editor_update_user_successful">User update is successfull</string>
+    <string name="delete_dialog_msg">Delete this User?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_user_failed">Error with deleting the User</string>
+    <string name="editor_delete_user_successful">User deleted</string>
+    <string name="unknown_breed">Unknown UserID</string>
+    <string name="unsaved_changes_dialog_msg">Discard the changes and quit editing</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editimg</string>
+
+</resources>
+
+
